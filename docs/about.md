@@ -3,6 +3,7 @@ layout: doc
 editLink: false
 lastUpdated: false
 isNoBackBtn: true
+isNoComment: true
 footer: false
 ---
 
